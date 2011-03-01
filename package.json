@@ -1,0 +1,20 @@
+{
+  "name": "http_compat",
+  "description": "Http compatability library to bridge the gap between 0.2.x and 0.4.x for library development.",
+  "main": "./http_compat",
+  "version": "0.1.0",
+  "author": "Nick Campbell (http://github.com/ncb000gt)",
+  "engines": { "node": ">= 0.2.0" },
+  "repository": {
+        "type": "git",
+        "url": "http://github.com/ncb000gt/node-http_compat.git"
+   },
+   "licenses": [
+     {
+        "type": "MIT"
+     }
+   ],
+   "bugs": {
+     "web" : "http://github.com/ncb000gt/node-http_compat/issues"
+   }
+}
